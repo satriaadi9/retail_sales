@@ -1,5 +1,4 @@
 # Online Retail Sales Dataset  
-### Data Warehousing – ETL Assignment (AFL 2)
 
 ## Overview
 
